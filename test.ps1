@@ -1580,5 +1580,5 @@ class MainClass
         Console.Out.Write(ConPtyShellMainClass.ConPtyShellMain(args));
     }
 }
-powershell.exe ls
+
 "@;
